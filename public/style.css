@@ -25,7 +25,7 @@ small {
 }
 
 header {
-  background-color: #6b32e1;
+  background-color: red;
   color: #fff;
   padding: 3px;
   height: 26px;
@@ -63,7 +63,7 @@ textarea {
 }
 
 .news-list {
-  background-color: #f6f6ef;
+  background-color: lightgray;
   width: 85%;
   margin: 12px auto;
   padding-bottom: 25px;
